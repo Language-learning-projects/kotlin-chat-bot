@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Kotlin chat bot
 
 This repository contains code of a learning project called: "Kotlin chat bot".
